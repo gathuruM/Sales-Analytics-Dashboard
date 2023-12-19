@@ -24,11 +24,11 @@ The dashboard is built using raw sales data provided by Kitui Flour Mills.
 ## Data Cleaning and Analysis
 The raw sales data underwent thorough cleaning to ensure accuracy for analysis.
 
-Steps
-Assessment: Identified and addressed missing values, inconsistencies, and outliers.
-Formatting: Standardized data formats and handled outliers.
-Integration: Merged datasets and removed duplicates.
-Validation: Ensured data accuracy post-cleaning.
+- Steps
+1. Assessment: Identified and addressed missing values, inconsistencies, and outliers.
+2. Formatting: Standardized data formats and handled outliers.
+3. Integration: Merged datasets and removed duplicates.
+4. Validation: Ensured data accuracy post-cleaning.
 
 ## Contributing
 Feel free to contribute by suggesting improvements, reporting issues, or adding new features.
