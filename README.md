@@ -19,6 +19,15 @@ This repository contains a Power BI Dashboard analyzing sales data for Kitui Flo
 ## Data Source
 The dashboard is built using raw sales data provided by Kitui Flour Mills.
 
+## Data Cleaning and Analysis
+The raw sales data underwent thorough cleaning to ensure accuracy for analysis.
+
+Steps
+Assessment: Identified and addressed missing values, inconsistencies, and outliers.
+Formatting: Standardized data formats and handled outliers.
+Integration: Merged datasets and removed duplicates.
+Validation: Ensured data accuracy post-cleaning.
+
 ## Contributing
 Feel free to contribute by suggesting improvements, reporting issues, or adding new features.
 
