@@ -4,7 +4,7 @@
 This repository contains a Power BI Dashboard analyzing sales data for Kitui Flour Mills. It provides insights into sales performance, product analysis, salesmen performance, and customer service metrics.
 
 ## Dashboard Components / Key Metrics Tracked
-![Sales Analytics Dashboard](Sales_Analytics_Dashboard.gif)
+![Sales Analytics Dashboard](./Sales_Analytics_Dashboard.gif)
 
 - **Sales Overview:** Visual representation of sales trends.
 - **Product Analysis:** Breakdown of product performance.
